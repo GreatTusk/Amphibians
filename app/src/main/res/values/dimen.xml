@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="medium_padding">16dp</dimen>
+    <dimen name="large_padding">24dp</dimen>
+
+    <!--Cards-->
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="card_separation">12dp</dimen>
+    <dimen name="card_image_size">200dp</dimen>
+    <dimen name="card_list_horizontal_padding">12dp</dimen>
+
+    <dimen name="icon_size">60dp</dimen>
+</resources>
